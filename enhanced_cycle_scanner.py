@@ -94,7 +94,7 @@ sstools.compatibility_mode = True
 INSTRUMENTS = ["BTC-USD.CC", "SOL-USD.CC"]
 
 # --- Module-level constants and paths ---
-API_KEY = "67fe1c9264fec2.51270480"
+API_KEY = "xxx" # you need to get a key from https://www.eodhd.com/
 CACHE_FILE = "btc_1min_cache.csv"
 CACHE_START_DATE = "2020-01-01"
 REPORTS_DIR = 'reports'
